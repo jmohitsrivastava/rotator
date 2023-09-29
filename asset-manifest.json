@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/rotator/static/css/main.5351c698.css",
+    "main.js": "/rotator/static/js/main.920286a6.js",
+    "static/js/787.764e5fb4.chunk.js": "/rotator/static/js/787.764e5fb4.chunk.js",
+    "static/media/logo.svg": "/rotator/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+    "index.html": "/rotator/index.html",
+    "main.5351c698.css.map": "/rotator/static/css/main.5351c698.css.map",
+    "main.920286a6.js.map": "/rotator/static/js/main.920286a6.js.map",
+    "787.764e5fb4.chunk.js.map": "/rotator/static/js/787.764e5fb4.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.5351c698.css",
+    "static/js/main.920286a6.js"
+  ]
+}
